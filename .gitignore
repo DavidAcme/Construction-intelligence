@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Source files and generated analytical data
+source_data/
+outputs/*.csv
+powerbi/data/*.csv
+
+# Rebuildable RAG artifacts
+ai_assistant/data/
+
+# Power BI local files
+*.pbix
+*.pbit
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+
+# OS and IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

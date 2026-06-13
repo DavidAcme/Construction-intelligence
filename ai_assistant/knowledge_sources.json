@@ -1,0 +1,11 @@
+[
+  "../docs/Adbri_Market_Demand_BI_Research_Report_EN.docx",
+  "../docs/Adbri_Market_Demand_BI_Research_Report_CN.docx",
+  "../docs/data_dictionary.md",
+  "../databricks/01_bronze_ingest.sql",
+  "../databricks/02_silver_gold_model.sql",
+  "../databricks/03_quality_checks.sql",
+  "../powerbi/power_bi_model_and_dax.md",
+  "../README.md",
+  "project_facts.md"
+]
