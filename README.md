@@ -133,9 +133,3 @@ python .\05_langchain_rag.py "Did South Australia demand recover in 2025?"
 
 These findings suggest recovering construction demand alongside persistent
 cost and output-price pressure.
-
-## Interview Positioning
-
-Short version:
-
-> I built an end-to-end BI pipeline for construction market analysis using ABS building approvals and PPI data. I used Python to reshape raw Excel workbooks, Databricks SQL to build Bronze/Silver/Gold Delta tables, and Power BI to create a star-schema semantic model with executive demand and cost-pressure reporting. I also added quality checks so the report is explainable and production-minded.
